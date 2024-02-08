@@ -1,0 +1,5 @@
+package com.shahid.dto;
+
+public class UpdateReservationRequest {
+
+}
