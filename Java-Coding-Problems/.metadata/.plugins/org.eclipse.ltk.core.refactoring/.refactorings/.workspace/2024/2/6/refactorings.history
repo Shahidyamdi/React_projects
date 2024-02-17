@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 12 resources" deleteContents="false" description="Delete 12 resources" element1="/BONUS_1_ChunkList" element10="/P53_CloningObjects" element11="/P55_JDK13_SwitchExpression" element12="/P57_JDK13_StatementBlocks" element2="/P116_CopyMap" element3="/P141_JSONFileToObjectViaGson" element4="/P141_JSONFileToObjectViaJackson" element5="/P141_JSONFileToObjectViaJsonb" element6="/P244_AssertingEqualityOfOptional" element7="/P250_QueryParametersBuilder" element8="/P263_JsonViaHttpClient" element9="/P52_BadDataInImmutable" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="12" stamp="1707454288369"/>
+</session>

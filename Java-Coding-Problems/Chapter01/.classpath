@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="P01_CountDuplicateCharacters/src"/>
+	<classpathentry kind="src" path="P02_FirstNonRepeatedCharacter/src"/>
+	<classpathentry kind="src" path="P03_ReverseWords/src"/>
+	<classpathentry kind="src" path="P04_ContainsOnlyDigits/src"/>
+	<classpathentry kind="src" path="P05_CountVowelsAndConsonants/src"/>
+	<classpathentry kind="src" path="P06_CountOccurrencesOfCharacter/src"/>
+	<classpathentry kind="src" path="P07_ConvertStringToIntLongFloatDouble/src"/>
+	<classpathentry kind="src" path="P08_RemoveWhitespacesFromString/src"/>
+	<classpathentry kind="src" path="P09_JoinMultipleStrings/src"/>
+	<classpathentry kind="src" path="P10_GeneratePermutations/src"/>
+	<classpathentry kind="src" path="P11_CheckPalindrome/src"/>
+	<classpathentry kind="src" path="P12_RemoveDuplicateCharacters/src"/>
+	<classpathentry kind="src" path="P13_RemoveGivenCharacter/src"/>
+	<classpathentry kind="src" path="P14_FindCharacterWithMostAppearances/src"/>
+	<classpathentry kind="src" path="P15_SortArrayOfStringsByLength/src"/>
+	<classpathentry kind="src" path="P16_CheckStringContainsSubstring/src"/>
+	<classpathentry kind="src" path="P17_CountStringIString/src"/>
+	<classpathentry kind="src" path="P18_CheckTwoStringsAnagrams/src"/>
+	<classpathentry kind="src" path="P19_DeclareMultilineStrings/src"/>
+	<classpathentry kind="src" path="P20_ConcatenateSameStringNTimes/src"/>
+	<classpathentry kind="src" path="P21_RemoveLeadingTrailingSpaces/src"/>
+	<classpathentry kind="src" path="P22_FindLongestCommonPrefix/src"/>
+	<classpathentry kind="src" path="P23_StringIndentation/src"/>
+	<classpathentry kind="src" path="P24_TransformStrings/src"/>
+	<classpathentry kind="src" path="P25_MinMaxTwoNumbers/src"/>
+	<classpathentry kind="src" path="P26_SumTwoLargeIntsAndLongsOperationOverflow/src"/>
+	<classpathentry kind="src" path="P27_StringUnsignedNumberRadix/src"/>
+	<classpathentry kind="src" path="P28_ConvertToNumbeByUnsignedConversion/src"/>
+	<classpathentry kind="src" path="P29_CompareTwoUnsignedNumbers/src"/>
+	<classpathentry kind="src" path="P30_DivisionModuloUnsignedValues/src"/>
+	<classpathentry kind="src" path="P31_FiniteFloatingPointValue/src"/>
+	<classpathentry kind="src" path="P32_LogicalANDORAndXOR/src"/>
+	<classpathentry kind="src" path="P33_BigIntegerToPrimitive/src"/>
+	<classpathentry kind="src" path="P34_ConvertLongToInt/src"/>
+	<classpathentry kind="src" path="P35_ComputeFloorOfDivisionAndModulus/src"/>
+	<classpathentry kind="src" path="P36_NextFloatingPointValue/src"/>
+	<classpathentry kind="src" path="P37_ProductTwoLargeIntAndLongAndOperationOverflow/src"/>
+	<classpathentry kind="src" path="P38_FusedMultiplyAdd/src"/>
+	<classpathentry kind="src" path="P39_CompactNumberFormat/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre-8u202-windows-x64">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
